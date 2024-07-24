@@ -1,12 +1,12 @@
 ---
-title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jul 01 2022'
+title: 'Astro Markdowns Project'
+description: 'Projecto sobre componentes de Astro'
+pubDate: 'Jul 24 2024'
 heroImage: '/blog-placeholder-1.jpg'
-tags: ["guide"]
+tags: ["astro", "cms", "components"]
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+A continuación se muestra un ejemplo de sintaxis básica de Markdown que puede utilizarse al escribir contenido Markdown en Astro.
 
 ## Headings
 
